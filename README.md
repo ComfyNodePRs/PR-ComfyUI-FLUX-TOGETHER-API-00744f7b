@@ -10,6 +10,8 @@ A custom node implementation for ComfyUI that integrates with Together.ai's FLUX
 - Negative prompt support
 - Error handling and retry mechanisms
 
+
+
 ## Installation
 
 1. Clone this repository into your ComfyUI custom_nodes directory:
@@ -21,6 +23,11 @@ git clone https://github.com/BZcreativ/ComfyUI-FLUX-TOGETHER-API.git
 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
+OR From the Comfyui Folder
+```bash
+ ./python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\ComfyUI-FLUX-TOGETHER-API\requirements.txt
 ```
 
 3. Create a `config.ini` file in the root directory with your Together.ai API key:
@@ -79,3 +86,6 @@ Created by [BZcreativ](https://github.com/BZcreativ)
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Example
+[nodes](nodes.png)
