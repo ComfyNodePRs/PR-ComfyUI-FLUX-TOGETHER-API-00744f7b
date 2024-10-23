@@ -88,4 +88,4 @@ Created by [BZcreativ](https://github.com/BZcreativ)
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Example
-[nodes](nodes.png)
+![image](https://github.com/BZcreativ/ComfyUI-FLUX-TOGETHER-API/blob/master/nodes.png)
